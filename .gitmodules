@@ -1,0 +1,12 @@
+[submodule "seiden"]
+	path = seiden
+	url = git@github.com:chanwutk/seiden.git
+[submodule "noscope"]
+	path = noscope
+	url = git@github.com:chanwutk/noscope.git
+[submodule "leap"]
+	path = leap
+	url = git@github.com:chanwutk/tetris-leap.git
+[submodule "otif"]
+	path = otif
+	url = git@github.com:chanwutk/tetris-otif.git
